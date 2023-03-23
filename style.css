@@ -1,7 +1,10 @@
 body{
-    background-color: black;
+    background-color: #9cde7f;
     margin: 0;
     padding: 0;
+}
+*::-webkit-scrollbar{
+    display: none;
 }
 .nav{
     list-style-type:none;
